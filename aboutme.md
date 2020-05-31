@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Data Science, Machine Learning and Artificial Intelligence Enthusiast
+subtitle: Data Science, Machine Learning and AI Enthusiast
 ---
 
-- I love coding in python
-- I'm always eager to learn something new
+- Converted since I used Python
+- Always eager to learn something new
 
 ### my history
 
