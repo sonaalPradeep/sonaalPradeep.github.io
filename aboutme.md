@@ -1,15 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Data Science, Machine Learning and Artificial Intelligence Enthusiast
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- I love coding in python
+- I'm always eager to learn something new
 
 ### my history
 
