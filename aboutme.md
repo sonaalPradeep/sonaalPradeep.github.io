@@ -5,7 +5,6 @@ subtitle: Data Science, Machine Learning and AI Enthusiast
 ---
 
 - Converted since I used Python
-- Like to write articles in my spare time
 - Always eager to learn something new
 
 ### my history
