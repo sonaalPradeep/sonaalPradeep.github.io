@@ -13,7 +13,7 @@ author: Sonaal Pathlai Pradeep
 
 navbar-links:
   About Me: "aboutme"
-  Articles: "articles"
+#  Articles: "articles"
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
